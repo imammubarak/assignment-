@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    color: white;
+}
+div{
+    color: red;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 999;
+}
+p{
+  color: red;
+  border: none;  
+}
+button{
+background-color: red;
+color: white;
+padding: 10px 20px;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+z-index: 1000;
+}
+nav{
+align-items: center;
+color: white;
+text-align: center;
+}
+img{
+border-radius: 100%;
+border: 5px red;
+}
